@@ -36,45 +36,29 @@ Se você trabalha com dados, automação ou quer trocar ideias sobre processos, 
 ## 🧠 Habilidades Técnicas
 
 ### 🔹 Automação & Backend
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/OpenPyXL-1D6F42?logo=python&logoColor=white">
 
 
 ---
 
 ### 🔹 Data Analytics & BI
-<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/DAX-0066CC">
-<img src="https://img.shields.io/badge/Power%20Query-347A2A?logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/VBA-00008B">
+<img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/DAX-0066CC"> <img src="https://img.shields.io/badge/Power%20Query-347A2A?logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/VBA-00008B">
 
 ---
 
 ### 🔹 UI / Front-end & Prototipação
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
 
 ---
 
 ### 🔹 Machine Learning & IA (Em evolução)
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-5A9BD5?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-5A9BD5?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
 
 ---
 
 ### 🔹 Ferramentas & Controle de Versão
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white">
 
 ---
 
