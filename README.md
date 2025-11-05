@@ -166,7 +166,8 @@ Se você trabalha com dados, automação ou quer trocar ideias sobre processos, 
       <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">
     </td>
     <td>Automação, CRUD, controle de dados, integração de sistemas</td>
-    <td><a href="https://github.com/guilhermelcerqueira/automacao_streamlit">Acessar projeto</a></td>
+    <td><a href="https://github.com/guilhermelcerqueira/automacao_streamlit">Acessar projeto</a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiZDBkYWQ3MmMtYjI1Yi00NTMyLThhMTktNzQ0YTc1YzU4ZDY1IiwidCI6IjFjZWQ5ZDZjLWM2OTktNGMxYS1hYjlkLTI1YWY1MzI0ZGMyYSJ9">Acessar Dashboard</a></td>
   </tr>
 
 </tbody>
