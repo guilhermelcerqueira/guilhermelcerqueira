@@ -10,15 +10,19 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
 </p>
 
-💡 Uso dados, Python e BI para transformar processos manuais em soluções inteligentes
+💡 **Uso dados, Python e BI para transformar processos manuais em soluções inteligentes**
 
+Atuo na construção de soluções que automatizam processos, reduzem trabalho operacional e transformam dados em informação útil para tomada de decisão — seja em operações de compras, financeiro ou inteligência de negócios.
 
-Atuo na construção de soluções que automatizam processos, reduzem trabalho manual e transformam dados em informação acionável para tomada de decisão — seja em operações de compras, financeiro ou inteligência de negócios.
+Este repositório reúne projetos que venho desenvolvendo na área de **Data Analytics, Automação com Python e Business Intelligence**.
 
-Este repositório reúne os projetos que venho desenvolvendo e evoluindo ao longo da minha jornada em **Data Analytics, Automação com Python e Business Intelligence**.  
-Aqui você encontrará aplicações reais: desde dashboards utilizados em operações corporativas até sistemas completos de gestão de dados, com autenticação, CRUD, validação e integração com planilhas e bancos.
+[![Dashboards em Power BI](https://img.shields.io/badge/📊%20Ver%20Dashboards%20Power%20BI-000?style=for-the-badge&logo=powerbi)](https://github.com/guilhermelcerqueira/projetos_portfolio_bi)
 
-📌 **Este portfólio está em desenvolvimento contínuo.**  
+🔎 **Se o seu foco é visualizar apenas os dashboards desenvolvidos em Power BI**, com GIFs, análises reais e explicação técnica, acesse o repositório dedicado a eles no link acima.
+
+---
+
+📌 Este portfólio está em desenvolvimento contínuo.  
 Novos projetos, melhorias e documentações estão sendo adicionados gradualmente — então sinta-se à vontade para acompanhar a evolução.
 
 Se você trabalha com dados, automação ou quer trocar ideias sobre processos, BI ou Python, será um prazer conversar. 😉
